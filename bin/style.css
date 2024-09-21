@@ -1,0 +1,12 @@
+.thick-border-button {
+    -fx-background-color: #007bff; /* Couleur normale */
+    -fx-text-fill: white; /* Couleur du texte */
+    -fx-padding: 10px 20px; /* Ajoute du padding */
+    -fx-border-width: 3px; /* Épaisseur de la bordure */
+    -fx-border-color: #0056b3; /* Couleur de la bordure */
+    -fx-background-insets: 5; /* Ajuste l'inset du fond */
+}
+
+.thick-border-button:hover {
+    -fx-background-color: #0056b3; /* Couleur au survol */
+}
