@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path /home/fabio/Bureau/javafx-sdk-23/lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "firstFx_55318827"
+        }
+    ]
+}
